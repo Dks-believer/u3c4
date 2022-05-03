@@ -1,0 +1,40 @@
+
+#block-2{
+    display:flex;
+    border:1mm solid blue;
+    height:600px;
+    height:fit-content;
+
+}
+
+#sidebar{
+    height:500px;
+    width:fit-content;
+}
+#sidebar>h2{
+    border:0.5mm solid gray;
+    justify-items: center;
+    text-align: center;
+}
+#sidebar>h3{
+    /* border:1mm solid blue; */
+    color:red;
+    height:15%;
+    justify-items: auto;
+    text-align: center;
+    
+    
+}
+#results{
+    border:1mm solid yellow;
+    width:100%;
+    
+    
+}
+#news{
+    height:50px;
+    height:fit-content;
+}
+img{
+    height:80px;
+}

@@ -1,0 +1,20 @@
+#navbar{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#search_input{
+    width:60%;
+    height:30px;
+    border:1px solid red;
+    padding:5px;
+    font-size: medium;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+#navbar h1{
+    color:teal;
+    cursor:pointer;
+    padding: -10px;
+}
